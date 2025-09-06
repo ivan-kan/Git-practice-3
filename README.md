@@ -1,1 +1,1 @@
-Practice of using branch, merge, and merge conflict, etc 
+Practice of using branch, merge, and simulating merge conflict, etc 
